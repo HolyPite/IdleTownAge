@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lumber",
+    "name": "Cabane de bûcheron",
+    "cost": [ { "res": "wood", "qty": 20 }, { "res": "gold", "qty": 5 } ],
+    "outputs": [ { "res": "wood", "qty": 0.15 } ]
+  },
+  {
+    "id": "farm",
+    "name": "Ferme",
+    "cost": [ { "res": "wood", "qty": 15 }, { "res": "gold", "qty": 3 } ],
+    "outputs": [ { "res": "food", "qty": 0.25 } ]
+  },
+  {
+    "id": "mine",
+    "name": "Mine d'or",
+    "cost": [ { "res": "wood", "qty": 30 } ],
+    "inputs": [ { "res": "wood", "qty": 0.05 } ],
+    "outputs": [ { "res": "gold", "qty": 0.2 } ]
+  },
+  {
+    "id": "nursery",
+    "name": "Nurserie",
+    "cost": [ { "res": "wood", "qty": 25 }, { "res": "gold", "qty": 8 } ],
+    "outputs": [ { "res": "pop", "qty": 0.02 } ]
+  }
+]

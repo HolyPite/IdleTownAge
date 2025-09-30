@@ -3,7 +3,7 @@
 #include <vector>
 #include <unordered_map>
 #include <cmath>
-#include "resource.h"   // ta classe Resource
+#include "resource.h"
 
 struct Cost {
     std::string res;

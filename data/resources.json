@@ -1,0 +1,6 @@
+[
+  { "id": "wood", "qty": 50, "qmax": 200 },
+  { "id": "food", "qty": 50, "qmax": 150 },
+  { "id": "gold", "qty": 70, "qmax": 0 },
+  { "id": "pop",  "qty": 10, "qmax": 100 }
+]
